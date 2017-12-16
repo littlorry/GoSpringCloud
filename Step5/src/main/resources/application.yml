@@ -1,0 +1,14 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: step5
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9002/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
+sidecar:
+  health-uri: http://localhost:${sidecar.port}/health.json
+  port: 3000

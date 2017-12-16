@@ -1,0 +1,11 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: step3
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9002/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
