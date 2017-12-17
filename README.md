@@ -1,8 +1,8 @@
 # GoSpringCloud
-Just for my study.
+该项目仅用于我个人用来学习和理解Spring Cloud的技术解决方案
 
 ## step1
-Spring Boot的尝试
+Spring Boot的尝试，就像每次学习新东西是用的“Hello World”
 
 ## step2
 创建Eureka Server
