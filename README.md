@@ -2,7 +2,7 @@
 该项目仅用于我个人用来学习和理解Spring Cloud的技术解决方案
 
 ## step1
-Spring Boot的尝试，就像每次学习新东西是用的“Hello World”
+Spring Boot的尝试，就像每次学习新东西时常用的“Hello World”
 
 ## step2
 创建Eureka Server
